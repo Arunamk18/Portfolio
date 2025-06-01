@@ -40,7 +40,7 @@ return (
                 Lizard
                 </Typography>
                 <Typography variant="body2" sx={{ color: 'text.secondary' }}>
-                Lizards are a widespread group of squamate reptiles, with over 6,000
+                Lizards are a awidespread group of squamate reptiles, with over 6,000
                 species, ranging across all continents except Antarctica
                 </Typography>
             </CardContent>

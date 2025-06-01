@@ -79,7 +79,7 @@ function App() {
                 <i style={{
               textAlign: 'justify', lineHeight: '2',
               color: 'white',
-            }}>"I'm an IT professional with more than 2 year of experience, eager to take on challenges in web development, database management,
+            }}>"I'm aan IT professional with more than 2 year of experience, eager to take on challenges in web development, database management,
             software development, and IT project management. I'm known for helping innovative organizations grow. I'm excited to use my strong
             IT skills and love for innovation to excel in roles related to software and web development in dynamic and collaborative environments."</i><br />
               </CardContent>
